@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hi! I'm Rafael Enriquez<br> I’m currently working on 🔭: my elective<br>I’m looking to collaborate on 👯: my elective<br> I’m looking for help with 🤝: my elective<br> I’m currently learning 🌱: my elective<br> Ask me about 💬: my elective<br> Fun fact ⚡: my elective
-
-
+Hi! I'm Rafael Enriquez<br> I’m currently working on 🔭: my elective<br>I’m looking to collaborate on 👯: my elective<br> I’m looking for help with 🤝: my elective<br> I’m currently learning 🌱: my elective<br> Ask me about 💬: my elective<br> Fun fact ⚡: 16-609 21st Century IT Skills 2nd Sem 2025 Quibod
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/icannotraprap) 
 
