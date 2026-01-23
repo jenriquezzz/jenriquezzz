@@ -1,4 +1,4 @@
-![](https://github.com/jenriquezzz/Elective-Laboratories/blob/main/Laboratory%202/Banner/Header.png)
+![](https://github.com/jenriquezzz/Elective-Laboratories/blob/main/Laboratory%202/branding/header/Header.png)
 
 # 💫 About Me:
 Hi! I'm Rafael Enriquez<br> I’m currently working on 🔭: my elective<br>I’m looking to collaborate on 👯: my elective<br> I’m looking for help with 🤝: my elective<br> I’m currently learning 🌱: my elective<br> Ask me about 💬: my elective<br> Fun fact ⚡: 16-609 21st Century IT Skills 2nd Sem 2025 Quibod
